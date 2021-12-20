@@ -1,4 +1,4 @@
-package src.main.java.com.epam.izh.rd.online.gameService;
+package com.epam.izh.rd.online.gameService;
 
 /**
  * Класс хранит количество спичек на столе
