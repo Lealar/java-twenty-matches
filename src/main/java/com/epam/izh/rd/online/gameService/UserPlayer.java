@@ -1,4 +1,4 @@
-package src.main.java.com.epam.izh.rd.online.gameService;
+package com.epam.izh.rd.online.gameService;
 
 import java.util.Scanner;
 
